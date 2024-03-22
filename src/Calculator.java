@@ -111,9 +111,6 @@ public class Calculator implements ActionListener {
         panel.add(divButtions);
 
 
-
-
-
      }
 
 
